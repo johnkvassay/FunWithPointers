@@ -8,13 +8,11 @@ In one or more function(s), pass a pointer into the function.
 In one or more function(s), return a pointer from the function.
 Use and assin the returned pointer in your code.
 Come up with a creative program
-Your program should do something, in addition to demonstrate your knowledge of pointers.
-Your main function should control all the other functions.
-Comment your source code file (.CPP) well.
+The program should do something, in addition to demonstrate your knowledge of pointers.
+The main function should control all the other functions.
+Comment the source code file (.CPP) well.
 Once the program is working have tested it a few times, create a new repository in your GitHub account for your program.
 Add your solution and files to your new Repository on GitHub.
-Take a screenshot of this project in GitHub.
-Take a screenshot of the program working.
 */
 
 
